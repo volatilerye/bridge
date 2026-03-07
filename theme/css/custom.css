@@ -1,0 +1,44 @@
+.katex .cjk_fallback{
+    font-size: 0.9em;
+    font-family: "Jost", "Noto Sans Japanese", sans-serif
+}
+
+.menu-title {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 2.4rem;
+    line-height: var(--menu-bar-height);
+    text-align: center;
+    margin: 0;
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+}
+
+.fa-svg{
+    fill: var(--fg)
+}
+
+.prev-next-buttons{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.local-button-active[rel="prev"] {
+  display: block;
+  text-align: left;
+}
+
+.local-button-active[rel="next"] {
+  display: block;
+  text-align: right;
+}
+
+.invert-e  {
+    display: inline-block;
+    transform: scaleX(-1);
+}

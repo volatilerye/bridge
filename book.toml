@@ -1,0 +1,27 @@
+[book]
+title = "volatile rye's sitemap"
+authors = ["volatile rye"]
+language = "jp"
+src = "src"
+description = "volatile rye's sitemap."
+
+[output.html]
+theme = "theme"
+
+no-section-label = true
+git-repository-url = "https://github.com/volatilerye/bridge"
+additional-css = ["theme/css/custom.css"]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
+site-url = "/bridge/"
+
+[output.html.fold]
+enable = true
+level = 0 
+
+[output.html.print]
+enable = false
+
+[build]
+
+[output.replace]
+command = "python -X utf8 ../../scripts/replace.py"
