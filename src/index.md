@@ -33,12 +33,16 @@
 
 ### Restio Strovtaylor (リスティオ・ストロヴテイラー)
 
-![1](/src/img/20250701_restio.png)
+<div align="center">
+<img src="img/20250701_restio.png" width="80%">
+</div>
 
 数学者を目指す少年.
 
 ### 七瀬 系
 
-![2](/src/img/20250701_kei.png)
+<div align="center">
+<img src="img/20250701_kei.png" width="80%">
+</div>
 
 毎日が辛い少年.
