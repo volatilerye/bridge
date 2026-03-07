@@ -19,7 +19,7 @@
 
 ### Bluesky
 > [!bluesky] [@volatilerye.bsky.social](https://bsky.app/profile/volatilerye.bsky.social)
-> 割と健全なアカウント.
+> ついったーに中指立てる時のアカウント.
 
 ### Pixiv
 > [!pixiv] [@volatile](https://www.pixiv.net/users/11390346)
